@@ -1,4 +1,4 @@
-# Client Auth Modül Projesi: Friends
+# Client Auth Modül Projesi: Friends asdasd
 
 Bugün istemci tarafında auth-tokenlar kullanarak nasıl authentication yapılır bunu incelediniz. Modül boyunca kullanıcı logini, istekleri ve logout işlemleri gibi authentication özelliklerini öğrendiniz. Bu projede bunları pekiştireceksiniz.
 
