@@ -1,9 +1,9 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Client Auth Projesi: Friends</h1>
+      <h1>Kullanıcı kimlik doğrulama: Arkadaşlar</h1>
     </div>
   );
 }
